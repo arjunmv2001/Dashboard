@@ -1,0 +1,9 @@
+img{
+    width: 320px;
+    height: 202px;
+    border-radius: 10px;
+    margin: auto;
+}
+img:hover{
+    box-shadow: 3px 1px 1px 3px #c2185b;
+}
